@@ -1,0 +1,39 @@
+{
+  "learningModules": [
+    {
+      "id": 1,
+      "icon": "📖",
+      "title": "Hello, nice to meet you!",
+      "subtitle": "Learn new concepts",
+      "bgColor": "#E8F4FD"
+    },
+    {
+      "id": 2,
+      "icon": "🤟",
+      "title": "Let's learn new signs!",
+      "subtitle": "Learn basic signs",
+      "bgColor": "#FFF4E6"
+    },
+    {
+      "id": 3,
+      "icon": "❓",
+      "title": "What is sign language?",
+      "subtitle": "Chat with Joy",
+      "bgColor": "#F0F8FF"
+    },
+    {
+      "id": 4,
+      "icon": "📚",
+      "title": "Keep learning...",
+      "subtitle": "Learn more signs",
+      "bgColor": "#F8F8F8"
+    },
+    {
+      "id": 5,
+      "icon": "😊",
+      "title": "Having a good time so far?",
+      "subtitle": "Chat with Joy",
+      "bgColor": "#F0F8FF"
+    }
+  ]
+}
