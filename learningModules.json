@@ -1,11 +1,72 @@
 {
   "learningModules": [
-    {
-      "id": 1,
-      "icon": "📖",
-      "title": "Hello, nice to meet you!",
-      "subtitle": "Learn new concepts",
-      "bgColor": "#E8F4FD"
+      {
+      "id": "1",
+      "title": "Greetings",
+      "subtitle": "Learn to say hello!",
+      "icon": "👋",
+      "bgColor": "#E6F0FF",
+      "lessons": [
+        {
+          "type": "matching_pairs",
+          "instructions": "Tap the matching pair",
+          "data": {
+            "items": [
+              {
+                "signVideo": "https://sislep.github.io/video-site/example.mp4",
+                "translation": "Nice",
+                "id": "1"
+              },
+              {
+                "signVideo": "https://sislep.github.io/video-site/example.mp4",
+                "translation": "Meet you",
+                "id": "2"
+              }
+            ]
+          }
+        },
+        {
+          "type": "sequencing",
+          "instructions": "Pick out signs in the correct order",
+          "data": {
+            "signVideo": "https://sislep.github.io/video-site/example.mp4",
+            "correctOrder": [
+              "NICE",
+              "MEET-you"
+            ],
+            "options": [
+              "HELLO",
+              "NICE",
+              "MEET-you"
+            ]
+          }
+        },
+        {
+          "type": "translation",
+          "instructions": "Guess the correct translation",
+          "data": {
+            "signVideo": "https://sislep.github.io/video-site/example.mp4",
+            "correctAnswer": "My",
+            "options": [
+              "You",
+              "My"
+            ]
+          }
+        },
+        {
+          "type": "fill_in_the_blank",
+          "instructions": "Fill in the missing sign",
+          "data": {
+            "signVideo": "https://sislep.github.io/video-site/example.mp4",
+            "fullPhrase": "NICE ____",
+            "missingWord": "MEET-you",
+            "options": [
+              "HELLO",
+              "MEET-you"
+            ]
+          }
+        }
+      ]
     },
     {
       "id": 2,
