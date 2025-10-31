@@ -183,13 +183,158 @@
   ],
   "Family": [
     {
-      "word": "Mother",
-      "signVideo": "https://sislep.github.io/video-site/Family-Mommy.mp4",
-      "signImage": "https://sislep.github.io/video-site/Mommy.png"
+        "word": "Aunt",
+        "signVideo": "https://sislep.github.io/video-site/family/Aunt.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Aunt.jpg"
     },
     {
-      "word": "Father",
-      "signVideo": "https://sislep.github.io/video-site/example.mp4"
+        "word": "Baby",
+        "signVideo": "https://sislep.github.io/video-site/family/Baby.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Baby.jpg"
+    },
+    {
+        "word": "Boy",
+        "signVideo": "https://sislep.github.io/video-site/family/Boy.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Boy.jpg"
+    },
+    {
+        "word": "Boyfriend",
+        "signVideo": "https://sislep.github.io/video-site/family/Boyfriend.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Boyfriend.jpg"
+    },
+    {
+        "word": "Brother",
+        "signVideo": "https://sislep.github.io/video-site/family/Brother.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Brother.jpg"
+    },
+    {
+        "word": "Cousin",
+        "signVideo": "https://sislep.github.io/video-site/family/Cousin.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Cousin.jpg"
+    },
+    {
+        "word": "Dad",
+        "signVideo": "https://sislep.github.io/video-site/family/Dad.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Dad.jpg"
+    },
+    {
+        "word": "Daughter",
+        "signVideo": "https://sislep.github.io/video-site/family/Daughter.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Daughter.jpg"
+    },
+    {
+        "word": "Divorce",
+        "signVideo": "https://sislep.github.io/video-site/family/Divorce.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Divorce.jpg"
+    },
+    {
+        "word": "Engagement",
+        "signVideo": "https://sislep.github.io/video-site/family/Engagement.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Engagement.jpg"
+    },
+    {
+        "word": "Father",
+        "signVideo": "https://sislep.github.io/video-site/family/Father.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Dad.jpg"
+    },
+    {
+        "word": "Friend",
+        "signVideo": "https://sislep.github.io/video-site/family/Friend.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Friend.jpg"
+    },
+    {
+        "word": "Girl",
+        "signVideo": "https://sislep.github.io/video-site/family/Girl.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Girl.jpg"
+    },
+    {
+        "word": "Girlfriend",
+        "signVideo": "https://sislep.github.io/video-site/family/Girlfriend.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Girlfriend.jpg"
+    },
+    {
+        "word": "Granddaughter",
+        "signVideo": "https://sislep.github.io/video-site/family/Granddaughter.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Granddaughter.jpg"
+    },
+    {
+        "word": "Grandfather",
+        "signVideo": "https://sislep.github.io/video-site/family/Grandfather.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Grandfather.jpg"
+    },
+    {
+        "word": "Grandmother",
+        "signVideo": "https://sislep.github.io/video-site/family/Grandmother.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Grandmother.jpg"
+    },
+    {
+        "word": "Grandson",
+        "signVideo": "https://sislep.github.io/video-site/family/Grandson.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Grandson.jpg"
+    },
+    {
+        "word": "HusbandandWife",
+        "signVideo": "https://sislep.github.io/video-site/family/HusbandandWife.mp4",
+    },
+    {
+        "word": "Man",
+        "signVideo": "https://sislep.github.io/video-site/family/Man.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Man.jpg"
+    },
+    {
+        "word": "Marry",
+        "signVideo": "https://sislep.github.io/video-site/family/Marry.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Marry.jpg"
+    },
+    {
+        "word": "Mother",
+        "signVideo": "https://sislep.github.io/video-site/family/Mother.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Mum.jpg"
+    },
+    {
+        "word": "Mummy",
+        "signVideo": "https://sislep.github.io/video-site/family/Mummy.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Mum.jpg"
+    },
+    {
+        "word": "Old",
+        "signVideo": "https://sislep.github.io/video-site/family/Old.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Old.jpg"
+    },
+    {
+        "word": "Sign Language Family",
+        "signVideo": "https://sislep.github.io/video-site/family/SignLanguageFamily.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Family.jpg"
+    },
+    {
+        "word": "Sister",
+        "signVideo": "https://sislep.github.io/video-site/family/Sister.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Sister.jpg"
+    },
+    {
+        "word": "Son",
+        "signVideo": "https://sislep.github.io/video-site/family/Son.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Son.jpg"
+    },
+    {
+        "word": "Uncle",
+        "signVideo": "https://sislep.github.io/video-site/family/Uncle.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Uncle.jpg"
+    },
+    {
+        "word": "Wedding",
+        "signVideo": "https://sislep.github.io/video-site/family/Wedding.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Wedding.jpg"
+    },
+    {
+        "word": "Wife",
+        "signVideo": "https://sislep.github.io/video-site/family/Wife.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Wife.jpg"
+    },
+    {
+        "word": "Woman",
+        "signVideo": "https://sislep.github.io/video-site/family/Woman.mp4",
+        "signImage": "https://sislep.github.io/video-site/family/Woman.jpg"
     }
   ]
 }
