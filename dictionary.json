@@ -105,6 +105,82 @@
       "signVideo": "https://sislep.github.io/video-site/alphabet/Alphabet-Z.mp4"
     }
   ],
+  "Body": [
+    {
+      "word": "Body",
+      "signVideo": "https://sislep.github.io/video-site/body/Body.mp4",
+    },
+    {
+      "word": "Face",
+      "signVideo": "https://sislep.github.io/video-site/body/Face.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Face.jpg"
+    },
+    {
+      "word": "Hair",
+      "signVideo": "https://sislep.github.io/video-site/body/Hair.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Hair.jpg"
+    },
+    {
+      "word": "Head",
+      "signVideo": "https://sislep.github.io/video-site/body/Head.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Head.jpg"
+    },
+    {
+      "word": "Eyes",
+      "signVideo": "https://sislep.github.io/video-site/body/Eyes.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Eyes.jpg"
+    },
+    {
+      "word": "Mouth",
+      "signVideo": "https://sislep.github.io/video-site/body/Mouth.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Mouth.jpg"
+    },
+    {
+      "word": "Nose",
+      "signVideo": "https://sislep.github.io/video-site/body/Nose.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Nose.jpg"
+    },
+    {
+      "word": "Teeth",
+      "signVideo": "https://sislep.github.io/video-site/body/Teeth.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Teeth.jpg"
+    },
+    {
+      "word": "Tongue",
+      "signVideo": "https://sislep.github.io/video-site/body/Tongue.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Tongue.jpg"
+    },
+    {
+      "word": "Chin",
+      "signVideo": "https://sislep.github.io/video-site/body/Chin.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Chin.jpg"
+    },
+    {
+      "word": "Ear",
+      "signVideo": "https://sislep.github.io/video-site/body/Ear.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Ear.jpg"
+    },
+    {
+      "word": "Armpit",
+      "signVideo": "https://sislep.github.io/video-site/body/Armpit.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Armpit.jpg"
+    },
+    {
+      "word": "Fingers",
+      "signVideo": "https://sislep.github.io/video-site/body/Fingers.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Fingersß.jpg"
+    },
+    {
+      "word": "Feet",
+      "signVideo": "https://sislep.github.io/video-site/body/Feet.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Feet.jpg"
+    },
+    {
+      "word": "Neck",
+      "signVideo": "https://sislep.github.io/video-site/body/Neck.mp4",
+      "signImage": "https://sislep.github.io/video-site/body/Neck.jpg"
+    }
+  ],
   "Family": [
     {
       "word": "Mother",
