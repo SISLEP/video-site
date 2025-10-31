@@ -336,5 +336,144 @@
         "signVideo": "https://sislep.github.io/video-site/family/Woman.mp4",
         "signImage": "https://sislep.github.io/video-site/family/Woman.jpg"
     }
+  ],
+  "Month": [
+    {
+        "word": "Sign Language Month",
+        "signVideo": "https://sislep.github.io/video-site/month/SignLanguageMonth.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/Month.jpg"
+    },
+    {
+        "word": "January",
+        "signVideo": "https://sislep.github.io/video-site/month/January.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/January.jpg"
+    },
+    {
+        "word": "February",
+        "signVideo": "https://sislep.github.io/video-site/month/February.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/February.jpg"
+    },
+    {
+        "word": "March",
+        "signVideo": "https://sislep.github.io/video-site/month/March.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/March.jpg"
+    },
+    {
+        "word": "April",
+        "signVideo": "https://sislep.github.io/video-site/month/April.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/April.jpg"
+    },
+    {
+        "word": "May",
+        "signVideo": "https://sislep.github.io/video-site/month/May.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/May.jpg"
+    },
+    {
+        "word": "June",
+        "signVideo": "https://sislep.github.io/video-site/month/June.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/June.jpg"
+    },
+    {
+        "word": "July",
+        "signVideo": "https://sislep.github.io/video-site/month/July.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/July.jpg"
+    },
+    {
+        "word": "August",
+        "signVideo": "https://sislep.github.io/video-site/month/August.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/August.jpg"
+    },
+    {
+        "word": "September",
+        "signVideo": "https://sislep.github.io/video-site/month/September.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/September.jpg"
+    },
+    {
+        "word": "October",
+        "signVideo": "https://sislep.github.io/video-site/month/October.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/October.jpg"
+    },
+    {
+        "word": "November",
+        "signVideo": "https://sislep.github.io/video-site/month/November.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/November.jpg"
+    },
+    {
+        "word": "December",
+        "signVideo": "https://sislep.github.io/video-site/month/December.mp4",
+        "signImage": "https://sislep.github.io/video-site/month/December.jpg"
+    }
+  ],
+  "Colours": [
+    {
+        "word": "Black",
+        "signVideo": "https://sislep.github.io/video-site/colour/Black.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/Black.jpg"
+    },
+    {
+        "word": "Blue",
+        "signVideo": "https://sislep.github.io/video-site/colour/Blue.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/Blue.jpg"
+    },
+    {
+        "word": "Brown",
+        "signVideo": "https://sislep.github.io/video-site/colour/Brown.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/Brown.jpg"
+    },
+    {
+        "word": "Gold",
+        "signVideo": "https://sislep.github.io/video-site/colour/Gold.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/Gold.jpg"
+    },
+    {
+        "word": "Gray",
+        "signVideo": "https://sislep.github.io/video-site/colour/Gray.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/Gray.jpg"
+    },
+    {
+        "word": "Green",
+        "signVideo": "https://sislep.github.io/video-site/colour/Green.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/Green.jpg"
+    },
+    {
+        "word": "Orange",
+        "signVideo": "https://sislep.github.io/video-site/colour/Orange.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/Orange.jpg"
+    },
+    {
+        "word": "Pink",
+        "signVideo": "https://sislep.github.io/video-site/colour/Pink.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/Pink.jpg"
+    },
+    {
+        "word": "Purple",
+        "signVideo": "https://sislep.github.io/video-site/colour/Purple.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/Purple.jpg"
+    },
+    {
+        "word": "Red",
+        "signVideo": "https://sislep.github.io/video-site/colour/Red.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/Red.jpg"
+    },
+    {
+        "word": "SignLanguageColour",
+        "signVideo": "https://sislep.github.io/video-site/colour/SignLanguageColour.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/SignLanguageColour.jpg"
+    },
+    {
+        "word": "Silver",
+        "signVideo": "https://sislep.github.io/video-site/colour/Silver.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/Silver.jpg"
+    },
+    {
+        "word": "White",
+        "signVideo": "https://sislep.github.io/video-site/colour/White.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/White.jpg"
+    },
+    {
+        "word": "Yellow",
+        "signVideo": "https://sislep.github.io/video-site/colour/Yellow.mp4",
+        "signImage": "https://sislep.github.io/video-site/colour/Yellow.jpg"
+    }
   ]
 }
