@@ -789,14 +789,69 @@
   ],
   "Weather": [
     {
-        "word": "Weather",
-        "signVideo": "https://sislep.github.io/video-site/weather/Weather.mp4",
-        "signImage": "https://sislep.github.io/video-site/weather/Weather.jpg"
+      "word": "Cyclone",
+      "signVideo": "https://sislep.github.io/video-site/weather/Cyclone.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Cyclone.jpg"
     },
     {
-        "word": "Wind",
-        "signVideo": "https://sislep.github.io/video-site/weather/Wind.mp4",
-        "signImage": "https://sislep.github.io/video-site/weather/Wind.jpg"
+      "word": "Earthquake",
+      "signVideo": "https://sislep.github.io/video-site/weather/Earthquake.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Earthquake.jpg"
+    },
+    {
+      "word": "Island",
+      "signVideo": "https://sislep.github.io/video-site/weather/Island.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Island.jpg"
+    },
+    {
+      "word": "Rainbow",
+      "signVideo": "https://sislep.github.io/video-site/weather/Rainbow.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Rainbow.jpg"
+    },
+    {
+      "word": "Raining",
+      "signVideo": "https://sislep.github.io/video-site/weather/Raining.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Raining.jpg"
+    },
+    {
+      "word": "Sea",
+      "signVideo": "https://sislep.github.io/video-site/weather/Sea.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Sea.jpg"
+    },
+    {
+      "word": "Storm",
+      "signVideo": "https://sislep.github.io/video-site/weather/Storm.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Storm.jpg"
+    },
+    {
+      "word": "Sun",
+      "signVideo": "https://sislep.github.io/video-site/weather/Sun.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Sun.jpg"
+    },
+    {
+      "word": "Thunder",
+      "signVideo": "https://sislep.github.io/video-site/weather/Thunder.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Thunder.jpg"
+    },
+    {
+      "word": "Volcano",
+      "signVideo": "https://sislep.github.io/video-site/weather/Volcano.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Volcano.jpg"
+    },
+    {
+      "word": "Waterfall",
+      "signVideo": "https://sislep.github.io/video-site/weather/Waterfall.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Waterfall.jpg"
+    },
+    {
+      "word": "Weather",
+      "signVideo": "https://sislep.github.io/video-site/weather/Weather.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Weather.jpg"
+    },
+    {
+      "word": "Wind",
+      "signVideo": "https://sislep.github.io/video-site/weather/Wind.mp4",
+      "signImage": "https://sislep.github.io/video-site/weather/Wind.jpg"
     }
   ]
 }
