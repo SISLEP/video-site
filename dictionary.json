@@ -786,5 +786,17 @@
         "signVideo": "https://sislep.github.io/video-site/sport/WeightLifting.mp4",
         "signImage": "https://sislep.github.io/video-site/sport/WeightLifting.jpg"
     }
+  ],
+  "Weather": [
+    {
+        "word": "Weather",
+        "signVideo": "https://sislep.github.io/video-site/sport/Weather.mp4",
+        "signImage": "https://sislep.github.io/video-site/sport/Weather.jpg"
+    },
+    {
+        "word": "Wind",
+        "signVideo": "https://sislep.github.io/video-site/sport/Wind.mp4",
+        "signImage": "https://sislep.github.io/video-site/sport/Wind.jpg"
+    }
   ]
 }
