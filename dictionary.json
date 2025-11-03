@@ -790,13 +790,13 @@
   "Weather": [
     {
         "word": "Weather",
-        "signVideo": "https://sislep.github.io/video-site/sport/Weather.mp4",
-        "signImage": "https://sislep.github.io/video-site/sport/Weather.jpg"
+        "signVideo": "https://sislep.github.io/video-site/weather/Weather.mp4",
+        "signImage": "https://sislep.github.io/video-site/weather/Weather.jpg"
     },
     {
         "word": "Wind",
-        "signVideo": "https://sislep.github.io/video-site/sport/Wind.mp4",
-        "signImage": "https://sislep.github.io/video-site/sport/Wind.jpg"
+        "signVideo": "https://sislep.github.io/video-site/weather/Wind.mp4",
+        "signImage": "https://sislep.github.io/video-site/weather/Wind.jpg"
     }
   ]
 }
