@@ -2367,6 +2367,260 @@
           }
         }
       ]
+    },
+    {
+      "id": "25",
+      "title": "Weather Part 1",
+      "subtitle": "Learn to sign basic weather and disaster terms",
+      "icon": "🌀",
+      "bgColor": "#F0E6FF",
+      "lessons": [
+        {
+          "type": "translation",
+          "instructions": "Guess the correct sign for **Cyclone**",
+          "data": {
+            "signVideo": "https://sislep.github.io/video-site/weather/Cyclone.mp4",
+            "correctAnswer": "Cyclone",
+            "options": [
+              "Cyclone",
+              "Storm",
+              "Wind"
+            ]
+          }
+        },
+        {
+          "type": "matching_pairs",
+          "instructions": "Tap the matching pair",
+          "data": {
+            "items": [
+              {
+                "signVideo": "https://sislep.github.io/video-site/weather/Earthquake.mp4",
+                "translation": "Earthquake",
+                "id": "1"
+              },
+              {
+                "signVideo": "https://sislep.github.io/video-site/weather/Island.mp4",
+                "translation": "Island",
+                "id": "2"
+              }
+            ]
+          }
+        },
+        {
+          "type": "translation",
+          "instructions": "What word is being signed?",
+          "data": {
+            "signVideo": "https://sislep.github.io/video-site/weather/Rainbow.mp4",
+            "correctAnswer": "Rainbow",
+            "options": [
+              "Sun",
+              "Rainbow",
+              "Light"
+            ]
+          }
+        },
+        {
+          "type": "matching_pairs",
+          "instructions": "Tap the matching pair",
+          "data": {
+            "items": [
+              {
+                "signVideo": "https://sislep.github.io/video-site/weather/Raining.mp4",
+                "translation": "Raining",
+                "id": "1"
+              },
+              {
+                "signVideo": "https://sislep.github.io/video-site/weather/Cyclone.mp4",
+                "translation": "Cyclone",
+                "id": "2"
+              }
+            ]
+          }
+        },
+        {
+          "type": "translation",
+          "instructions": "Guess the correct sign for **Earthquake**",
+          "data": {
+            "signVideo": "https://sislep.github.io/video-site/weather/Earthquake.mp4",
+            "correctAnswer": "Earthquake",
+            "options": [
+              "Earthquake",
+              "Volcano",
+              "Thunder"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Weather Part 2",
+      "subtitle": "Practice signs for water and sky phenomena",
+      "icon": "☀️",
+      "bgColor": "#FFFBE6",
+      "lessons": [
+        {
+          "type": "translation",
+          "instructions": "What word is being signed?",
+          "data": {
+            "signVideo": "https://sislep.github.io/video-site/weather/Sea.mp4",
+            "correctAnswer": "Sea",
+            "options": [
+              "Water",
+              "Island",
+              "Sea",
+              "Raining"
+            ]
+          }
+        },
+        {
+          "type": "matching_pairs",
+          "instructions": "Tap the matching pair",
+          "data": {
+            "items": [
+              {
+                "signVideo": "https://sislep.github.io/video-site/weather/Storm.mp4",
+                "translation": "Storm",
+                "id": "1"
+              },
+              {
+                "signVideo": "https://sislep.github.io/video-site/weather/Sun.mp4",
+                "translation": "Sun",
+                "id": "2"
+              }
+            ]
+          }
+        },
+        {
+          "type": "translation",
+          "instructions": "Guess the correct sign for **Thunder**",
+          "data": {
+            "signVideo": "https://sislep.github.io/video-site/weather/Thunder.mp4",
+            "correctAnswer": "Thunder",
+            "options": [
+              "Lightning",
+              "Thunder",
+              "Raining"
+            ]
+          }
+        },
+        {
+          "type": "matching_pairs",
+          "instructions": "Tap the matching pair",
+          "data": {
+            "items": [
+              {
+                "signVideo": "https://sislep.github.io/video-site/weather/Volcano.mp4",
+                "translation": "Volcano",
+                "id": "1"
+              },
+              {
+                "signVideo": "https://sislep.github.io/video-site/weather/Waterfall.mp4",
+                "translation": "Waterfall",
+                "id": "2"
+              }
+            ]
+          }
+        },
+        {
+          "type": "translation",
+          "instructions": "What word is being signed?",
+          "data": {
+            "signVideo": "https://sislep.github.io/video-site/weather/Raining.mp4",
+            "correctAnswer": "Raining",
+            "options": [
+              "Sea",
+              "Raining",
+              "Cloud"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Weather Part 3",
+      "subtitle": "Review and master the last weather signs",
+      "icon": "💨",
+      "bgColor": "#E6F5FF",
+      "lessons": [
+        {
+          "type": "translation",
+          "instructions": "Guess the correct sign for **Weather**",
+          "data": {
+            "signVideo": "https://sislep.github.io/video-site/weather/Weather.mp4",
+            "correctAnswer": "Weather",
+            "options": [
+              "Sky",
+              "Wind",
+              "Weather"
+            ]
+          }
+        },
+        {
+          "type": "matching_pairs",
+          "instructions": "Tap the matching pair",
+          "data": {
+            "items": [
+              {
+                "signVideo": "https://sislep.github.io/video-site/weather/Wind.mp4",
+                "translation": "Wind",
+                "id": "1"
+              },
+              {
+                "signVideo": "https://sislep.github.io/video-site/weather/Thunder.mp4",
+                "translation": "Thunder",
+                "id": "2"
+              }
+            ]
+          }
+        },
+        {
+          "type": "translation",
+          "instructions": "What word is being signed?",
+          "data": {
+            "signVideo": "https://sislep.github.io/video-site/weather/Storm.mp4",
+            "correctAnswer": "Storm",
+            "options": [
+              "Raining",
+              "Wind",
+              "Storm"
+            ]
+          }
+        },
+        {
+          "type": "matching_pairs",
+          "instructions": "Tap the matching pair",
+          "data": {
+            "items": [
+              {
+                "signVideo": "https://sislep.github.io/video-site/weather/Sun.mp4",
+                "translation": "Sun",
+                "id": "1"
+              },
+              {
+                "signVideo": "https://sislep.github.io/video-site/weather/Sea.mp4",
+                "translation": "Sea",
+                "id": "2"
+              }
+            ]
+          }
+        },
+        {
+          "type": "translation",
+          "instructions": "Guess the correct sign for **Wind**",
+          "data": {
+            "signVideo": "https://sislep.github.io/video-site/weather/Wind.mp4",
+            "correctAnswer": "Wind",
+            "options": [
+              "Wind",
+              "Storm",
+              "Weather",
+              "Cyclone"
+            ]
+          }
+        }
+      ]
     }
   ]
 }
