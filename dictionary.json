@@ -1,4 +1,4 @@
-{
+﻿{
   "Alphabet": [
     {
       "word": "A",
@@ -341,67 +341,67 @@
     {
         "word": "Sign Language Month",
         "signVideo": "https://sislep.github.io/video-site/month/SignLanguageMonth.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/Month.png"
+        "signImage": "https://sislep.github.io/video-site/month/Month.jpg"
     },
     {
         "word": "January",
         "signVideo": "https://sislep.github.io/video-site/month/January.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/January.png"
+        "signImage": "https://sislep.github.io/video-site/month/January.jpg"
     },
     {
         "word": "February",
         "signVideo": "https://sislep.github.io/video-site/month/February.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/February.png"
+        "signImage": "https://sislep.github.io/video-site/month/February.jpg"
     },
     {
         "word": "March",
         "signVideo": "https://sislep.github.io/video-site/month/March.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/March.png"
+        "signImage": "https://sislep.github.io/video-site/month/March.jpg"
     },
     {
         "word": "April",
         "signVideo": "https://sislep.github.io/video-site/month/April.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/April.png"
+        "signImage": "https://sislep.github.io/video-site/month/April.jpg"
     },
     {
         "word": "May",
         "signVideo": "https://sislep.github.io/video-site/month/May.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/May.png"
+        "signImage": "https://sislep.github.io/video-site/month/May.jpg"
     },
     {
         "word": "June",
         "signVideo": "https://sislep.github.io/video-site/month/June.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/June.png"
+        "signImage": "https://sislep.github.io/video-site/month/June.jpg"
     },
     {
         "word": "July",
         "signVideo": "https://sislep.github.io/video-site/month/July.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/July.png"
+        "signImage": "https://sislep.github.io/video-site/month/July.jpg"
     },
     {
         "word": "August",
         "signVideo": "https://sislep.github.io/video-site/month/August.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/August.png"
+        "signImage": "https://sislep.github.io/video-site/month/August.jpg"
     },
     {
         "word": "September",
         "signVideo": "https://sislep.github.io/video-site/month/September.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/September.png"
+        "signImage": "https://sislep.github.io/video-site/month/September.jpg"
     },
     {
         "word": "October",
         "signVideo": "https://sislep.github.io/video-site/month/October.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/October.png"
+        "signImage": "https://sislep.github.io/video-site/month/October.jpg"
     },
     {
         "word": "November",
         "signVideo": "https://sislep.github.io/video-site/month/November.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/November.png"
+        "signImage": "https://sislep.github.io/video-site/month/November.jpg"
     },
     {
         "word": "December",
         "signVideo": "https://sislep.github.io/video-site/month/December.mp4",
-        "signImage": "https://sislep.github.io/video-site/month/December.png"
+        "signImage": "https://sislep.github.io/video-site/month/December.jpg"
     }
   ],
   "Colours": [
