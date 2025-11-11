@@ -1,4 +1,4 @@
-{
+﻿{
   "categories": [
     {
       "id": "alphabet",
@@ -62,6 +62,13 @@
       "icon": "🤟",
       "bgColor": "#FFF4E6",
       "moduleCount": 1
+    },
+    {
+      "id": "class",
+      "title": "Class",
+      "icon": "🏫",
+      "bgColor": "#F0F8FF",
+      "moduleCount": 7
     }
   ]
 }
